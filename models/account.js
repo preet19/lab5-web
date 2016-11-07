@@ -1,6 +1,4 @@
-/**
- * Created by RFreeman on 11/4/2016.
- */
+
 // link to mongoose
 var mongoose = require('mongoose');
 var plm = require('passport-local-mongoose');

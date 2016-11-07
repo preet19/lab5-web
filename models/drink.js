@@ -1,6 +1,4 @@
-/**
- * Created by RFreeman on 10/7/2016.
- */
+
 var mongoose = require('mongoose');
 
 // define a schema for the Drink model
