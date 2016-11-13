@@ -11,8 +11,8 @@ var flash = require('connect-flash');
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('index', {
-    title: 'Lesson 8',
-    message: 'Passport Authentication (Local) - Part 1',
+    title: 'Full Stack Project by Dilpreet Singh',
+    message: 'Passport Authentication',
     user: req.user
   });
 });
